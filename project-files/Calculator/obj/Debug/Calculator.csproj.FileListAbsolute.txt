@@ -1,0 +1,57 @@
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment11\Calculator - LongWay - No SB - NoDiv\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\CITP180-CSharp-Intro\assignment13\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - Clean\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - Clean\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - Clean\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\bin\Debug\Calculator.exe.config
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.exe
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.pdb
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\bin\Debug\Calculator.exe
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\bin\Debug\Calculator.pdb
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\hp-school\old\CITP180-CSharp-Intro\assignment13\Calculator - portfolio\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
